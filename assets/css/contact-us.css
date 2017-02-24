@@ -1,0 +1,85 @@
+
+.logo-container .logo{
+    overflow: hidden;
+    border-radius: 50%;
+    width: 50px;
+    float: left;
+}
+
+.logo-container .brand{
+    font-weight:600;
+   	color:#fff;
+  	font-family:'Berkshire Swash', Helvetica, sans-serif;
+    font-size: 28px;
+    float: left;
+    margin-left: 10px;
+    margin-top: 16px;
+    width: 100px;
+    height: 22px;
+    text-align: left;
+}
+.logo-container .brand-material{
+    font-size: 18px;
+    margin-top: 15px;
+    height: 25px;
+    width: auto;
+}
+.logo-container .logo img{
+    width: 100%;
+}
+.navbar-small .logo-container .brand{
+    color: #333333;
+}
+	
+.contact-us-page .wrapper > .header {
+  box-shadow:0px 0px 1px 1px #000;
+  height: 90vh;
+}
+.contact-us-page .header .brand {
+  margin-top: 30vh;
+  color: #FFFFFF;
+  text-align: center;
+}
+
+.office .info-horizontal {
+	margin-top:70px;
+}
+.office .info-horizontal .icon-primary{
+	font-size:12px;
+}
+
+.office .info-horizontal .description{
+	margin-left:80px;
+	margin-top:-80px;
+	float:left;
+}
+
+.contact-number .info-horizontal{
+	margin-top:30px;	
+}
+
+.contact-number .info-horizontal .icon-primary{
+	font-size:12px;
+}
+
+.contact-number .info-horizontal .description{
+	margin-left:80px;
+	margin-top:-80px;
+	float:left;
+}
+
+.contact-us-page h3{ 
+	text-align:center;
+	font-weight:600;
+   	color:#3C4858;
+  	font-family:'Berkshire Swash', Helvetica, sans-serif;
+    font-size: 28px;
+}
+
+.contact-us-page .modal-title{
+	text-align:center;
+	font-weight:600;
+   	color:#3C4858;
+  	font-family:'Berkshire Swash', Helvetica, sans-serif;
+    font-size: 18px;	
+}

@@ -1,0 +1,82 @@
+
+.logo-container .logo{
+    overflow: hidden;
+    border-radius: 50%;
+    width: 50px;
+    float: left;
+}
+
+.logo-container .brand{
+    font-weight:600;
+   	color:#fff;
+  	font-family:'Berkshire Swash', Helvetica, sans-serif;
+    font-size: 28px;
+    float: left;
+    margin-left: 10px;
+    margin-top: 16px;
+    width: 100px;
+    height: 22px;
+    text-align: left;
+}
+.logo-container .brand-material{
+    font-size: 18px;
+    margin-top: 15px;
+    height: 25px;
+    width: auto;
+}
+.logo-container .logo img{
+    width: 100%;
+}
+.navbar-small .logo-container .brand{
+    color: #333333;
+}
+
+.signup-page .wrapper > .header {
+  box-shadow:0px 0px 1px 1px #000;
+  height: 50vh;
+}
+
+.signup-page .header .brand {
+  margin-top: 30vh;
+  color: #FFFFFF;
+  text-align: center;
+}
+
+.signup-page h2 { 
+	text-align:center;
+	font-weight:600;
+   	color:#3C4858;
+  	font-family:'Berkshire Swash', Helvetica, sans-serif;
+    font-size: 28px;
+}
+
+.social h4{
+
+	color:#a0a0a0;
+}
+
+.icon.icon-rose{
+	color:#4caf50;
+}
+
+.description .info-title{
+	margin-top:-65px;
+	margin-left:70px
+}
+
+.description .description{
+	margin-top:-10px;
+	margin-left: 70px;
+}
+
+.footer a{
+	color:#000;
+}
+
+.signup-page .modal-title{
+	text-align:center;
+	font-weight:600;
+   	color:#3C4858;
+  	font-family:'Berkshire Swash', Helvetica, sans-serif;
+    font-size: 18px;	
+}
